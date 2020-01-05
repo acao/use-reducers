@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  font-size: 2em;
+}
+#results {
+  margin: 10px 0;
+}
+
+#results > div {
+  font-size: 1.2em;
+  margin-bottom: 8px;
+}
